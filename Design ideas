@@ -13,7 +13,7 @@ Win conditions:
     Attend the BIG deal and successfully assasinate the Boss.
   Law Enforcement member: 
     Attend the BIG deal and successfully apprehend the Boss along with enough 
-    evidence to convict the Boss.
+    evidence to convict the Boss for your agency. Law Enforcement Agencies do not work well together.
     
 Basic gameplay ideas
     
@@ -23,6 +23,9 @@ Basic gameplay ideas
     Meetings have events happen and that require attending players to resolve based on skills or resources brought to the meeting.
     
     Meetings have a point value. Lower point value meetings require less resources and skill to complete.
+    
+    Events can also have a point value to modify a meetings point value. "What started as a simple introduction meeting went 
+    south quickly and ended in a Jon Woo faceoff. Trouble was averted this time, just barely."
     
     
 Game Characters:
