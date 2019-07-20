@@ -1,5 +1,11 @@
 Design Ideas
 
-Players represent members of a cartel trying to setup the the big score and win the favor of the 'El Capo', 
+Players represent members of a cartel trying to setup the the big score and win the favor of the boss, 
 but amongst their assiocates one or more players may be a undercover DEA agent, a FBI agent, or even a 
 rival cartel trying to move in on the cartels territory.
+
+Win conditions:
+  Cartel members - Setup and successfully close a BIG deal with the Boss in attendence.
+  Rival Cartel member - Attend the BIG deal and successfully assasinate the Boss.
+  Law Enforcement member - Attend the BIG deal and successfully apprehend the BOSS along with enough evidence to convict.
+  
